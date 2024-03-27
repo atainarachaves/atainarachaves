@@ -1,5 +1,7 @@
 👋 Hello, I'm Tainara Chaves
+
 I am an Information Systems student at PUCRS.
+
 Currently, I work on VR game development research.
 
 <!---
