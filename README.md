@@ -2,7 +2,6 @@
 
 I am an Information Systems student at PUCRS.
 
-Currently, I work on VR game development research.
 
 <!---
 atainarachaves/atainarachaves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
