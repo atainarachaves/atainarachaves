@@ -13,7 +13,7 @@ Sou estudante de **Sistemas de Informação** e atuo como **QA Engineer**, focad
 ✅ **BDD e Gherkin:** Escrita de cenários claros e manutenção facilitada.  
 ✅ **Integração com CI/CD:** Pipelines com **GitLab CI/CD** e **GitHub Actions**.  
 ✅ **Banco de Dados:** SQL (**MySQL, PostgreSQL, ORACLE**) e NoSQL (**MongoDB**).  
-✅ **Gestão de Testes e Projetos:** **Jira, ZephyrScale** e **Confluence**.  
+✅ **Gestão de Testes e Projetos:** **Jira**.  
 
 ---
 
