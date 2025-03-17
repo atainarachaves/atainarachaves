@@ -31,7 +31,7 @@ Sou estudante de **Sistemas de Informação** e atuo como **QA Engineer**, focad
 
 ## 📫 **Onde me encontrar:**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/atainarachaves)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atainarachaves/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atainarachaves)  
 
 Sempre em busca de aprendizado e novos desafios! 🚀
