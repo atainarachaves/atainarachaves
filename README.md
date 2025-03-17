@@ -9,7 +9,7 @@ Sou estudante de **Sistemas de Informação** e atuo como **QA Engineer**, focad
 ## 💡 **Experiência:**  
 
 ✅ **Testes Manuais e APIs:** Validação de APIs utilizando **Postman** e **Swagger**.  
-✅ **Automação de Testes:** API e UI com **Rest Assured, JUnit, Selenium e Cypress **.  
+✅ **Automação de Testes:** API e UI com **Rest Assured, JUnit, Selenium e Cypress**.  
 ✅ **BDD e Gherkin:** Escrita de cenários claros e manutenção facilitada.  
 ✅ **Integração com CI/CD:** Pipelines com **GitLab CI/CD** e **GitHub Actions**.  
 ✅ **Banco de Dados:** SQL (**MySQL, PostgreSQL, ORACLE**) e NoSQL (**MongoDB**).  
