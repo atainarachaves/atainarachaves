@@ -1,23 +1,23 @@
-### ✨ Olá! Eu sou Tainara Chaves👋  
+### ✨ Hello! I'm Tainara Chaves 👋  
 
 💻 **QA Engineer | Test Automation | CI/CD Enthusiast**  
 
-Sou estudante de **Sistemas de Informação** e atuo como **QA Engineer**, focado em garantir qualidade e eficiência no desenvolvimento de software por meio de testes automatizados e boas práticas.  
+I am a **Information Systems** student and work as a **QA Engineer**, focused on ensuring software quality and efficiency through automated testing and best practices.  
 
 ---
 
-## 💡 **Experiência:**  
+## 💡 **Experience:**  
 
-✅ **Testes Manuais e APIs:** Validação de APIs utilizando **Postman** e **Swagger**.  
-✅ **Automação de Testes:** API e UI com **Rest Assured, JUnit, Selenium e Cypress**.  
-✅ **BDD e Gherkin:** Escrita de cenários claros e manutenção facilitada.  
-✅ **Integração com CI/CD:** Pipelines com **GitLab CI/CD** e **GitHub Actions**.  
-✅ **Banco de Dados:** SQL (**MySQL, PostgreSQL, ORACLE**) e NoSQL (**MongoDB**).  
-✅ **Gestão de Testes e Projetos:** **Jira**.  
+✅ **Manual Testing and APIs:** API validation using **Postman** and **Swagger**.  
+✅ **Test Automation:** API and UI with **Rest Assured, Selenium, and Cypress**.  
+✅ **BDD and Gherkin:** Writing clear scenarios and ensuring easy maintenance.  
+✅ **CI/CD Integration:** Pipelines with **GitLab CI/CD** and **GitHub Actions**.  
+✅ **Databases:** SQL (**MySQL, PostgreSQL, ORACLE**) and NoSQL (**MongoDB**).  
+✅ **Test and Project Management:** **Jira**.  
 
 ---
 
-## 🚀 **Tecnologias & Ferramentas:**  
+## 🚀 **Technologies & Tools:**  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
@@ -29,9 +29,9 @@ Sou estudante de **Sistemas de Informação** e atuo como **QA Engineer**, focad
 
 ---
 
-## 📫 **Onde me encontrar:**  
+## 📫 **Where to find me:**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atainarachaves/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atainarachaves/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atainarachaves)  
 
-Sempre em busca de aprendizado e novos desafios! 🚀
+Always seeking learning and new challenges! 🚀
